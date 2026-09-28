@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dev Options Quick</string>
+    <string name="accessibility_label">Dev Options Quick Service</string>
+    <string name="accessibility_description">Navigates Android Settings to enable Developer Options and set animation scales to 0.5x.</string>
+</resources>
